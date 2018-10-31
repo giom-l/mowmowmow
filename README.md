@@ -8,6 +8,9 @@ Note that will build jars and docker image (gocho/mowitnow).
 
 
 # Usage 
+## Input parameters
+input to provide to this program is described in TODO file at the root of this project.
+
 ## You can use the program by several ways :
  - Launch it locally with java
  - Launch a docker image
