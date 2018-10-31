@@ -1,7 +1,7 @@
 FROM openjdk:latest
 
 LABEL "author"="Guilaume Lhermenier"
-LABEL "source repository"=""
+LABEL "source repository"="https://github.com/gocho1/mowmowmow"
 LABEL "informations"="Mow It Now exercise for Xebia"
 
 WORKDIR /mowitnow
